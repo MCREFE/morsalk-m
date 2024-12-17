@@ -1,0 +1,60 @@
+.div{
+    position: relative;
+bottom: 15px;
+}
+
+a{
+position: relative;
+bottom: 15px;
+font-size: 25px;
+color: white;
+
+position: relative; 
+ bottom: -30px;
+left: -150px;
+}
+
+
+.navbar{
+ 
+ position: relative;
+ min-height: 30px;
+background-color: rgb(150, 94, 172);
+display: flex;
+justify-content: space-around;
+box-shadow: 3px 3px 4px black;
+}
+
+img{
+ position: relative;
+ right: 75px;
+ top: -1px;
+}
+h1{
+font-size: 50px;
+}
+p{
+font-size: 40px;
+text-shadow: 3px 3px 4px white;
+
+}
+body{
+    background-image:inherit;
+}
+body{
+    background-image: url("img/mm.jpg");
+    background-size: cover;
+ }
+ a:hover{
+    color: black;
+}
+
+  
+  
+  h1{
+    color: white;
+    font-size: 50px;
+    -webkit-text-stroke: 1px black;
+   text-shadow: 3px 3px 4px rgb(7, 1, 1);
+ }
+    
